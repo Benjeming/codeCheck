@@ -2,7 +2,7 @@
 
 如图：
 
-![](\chrome_qphCqKQqn4.png)
+![](.\chrome_qphCqKQqn4.png)
 
 三种不同类型的验证码
 
