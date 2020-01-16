@@ -2,7 +2,7 @@
 
 如图：
 
-![](images/chrome_qphCqKQqn4.png)
+![](https://github.com/Benjeming/codeCheck/blob/master/images/chrome_qphCqKQqn4.png)
 
 三种不同类型的验证码
 
